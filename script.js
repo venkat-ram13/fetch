@@ -33,7 +33,7 @@ fetch(url)
                             <p><b>Latlng:</b>  <span>${data[0].latlng} </span></p><br>
 
                             <p><b>Temperature:</b><span>${data1.main.temp} F </span><br>
-                            <p><b>Humidity:</b><span>${data1.main.humidity} </span><br>
+                            <p><b>Humidity:</b><span>${data1.main.humidity}g.m<sup>-3</sup> </span><br>
                             <p><b>Pressure:</b><span>${data1.main.pressure} </span><br>
                             <p><b>Wind:</b><span>${data1.wind.speed}m/s</span>
                             
